@@ -17,3 +17,7 @@ Soon:
 - Vaultwarden - migrating from BitWarden online.
 - Wiredoor or some reverse proxy software, would buy a VPS as a front IP to proxy traffic from.
 - Things I have not thought about.
+
+
+# Configs
+Here is also the repo for my configuration files. Such as Window Manager, Terminal settings, notification and shell, waybar, etc.
