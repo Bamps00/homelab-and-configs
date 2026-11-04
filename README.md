@@ -22,4 +22,4 @@ Soon:
 
 
 # Configs
-Here is also the repo for my configuration files from Home Lab and my Personal Setup. Such as Window Manager, Terminal settings, notification and shell, waybar, etc.
+Here is also the repo for my configuration files from Home Lab. Dotfiles for a personal setup is likely going to be in a different repo once I get to it.
